@@ -1,0 +1,21 @@
+{
+  "name": "my-demo-artifact2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo \"Build successfull\" && exit 1",
+    "test": "echo \"Test successfull\" && exit 1",
+    "lint": "echo \"Lint successfull\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nayaabh/my-demo-artifact2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nayaabh/my-demo-artifact2/issues"
+  },
+  "homepage": "https://github.com/nayaabh/my-demo-artifact2#readme"
+}
